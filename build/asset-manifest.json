@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1ed79869.css",
+    "main.js": "/static/js/main.1f6ef978.js",
+    "static/js/496.5d237d94.chunk.js": "/static/js/496.5d237d94.chunk.js",
+    "static/media/RedHatDisplay-SemiBold.ttf": "/static/media/RedHatDisplay-SemiBold.a09738a446c68f81a5a1.ttf",
+    "static/media/RedHatDisplay-ExtraBold.ttf": "/static/media/RedHatDisplay-ExtraBold.3c908e72acb4638501f1.ttf",
+    "static/media/RedHatDisplay-Medium.ttf": "/static/media/RedHatDisplay-Medium.7ee466f5ad16cf06e5de.ttf",
+    "static/media/RedHatDisplay-Regular.ttf": "/static/media/RedHatDisplay-Regular.3f17d35ffc01dfc0e72a.ttf",
+    "static/media/RedHatDisplay-Bold.ttf": "/static/media/RedHatDisplay-Bold.2ec0c3dadf633ed6898f.ttf",
+    "static/media/sendanor.svg": "/static/media/sendanor.2973219a54d51084fcc3d9760ce9063b.svg",
+    "static/media/sendanor_blackwhite.svg": "/static/media/sendanor_blackwhite.bc71edab4633ed68bbacc8715472d99d.svg",
+    "static/media/github-brands.svg": "/static/media/github-brands.e2f073269da5b56e82387b15c3b59f5a.svg",
+    "index.html": "/index.html",
+    "static/media/loading.svg": "/static/media/loading.f0256c1f0cf230675aee21b830666471.svg",
+    "main.1ed79869.css.map": "/static/css/main.1ed79869.css.map",
+    "main.1f6ef978.js.map": "/static/js/main.1f6ef978.js.map",
+    "496.5d237d94.chunk.js.map": "/static/js/496.5d237d94.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ed79869.css",
+    "static/js/main.1f6ef978.js"
+  ]
+}
