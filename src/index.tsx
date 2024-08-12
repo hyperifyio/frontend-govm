@@ -8,7 +8,7 @@ import {
     GOVM_AUTHENTICATE_EMAIL_URL,
     GOVM_VERIFY_EMAIL_CODE_URL,
     GOVM_VERIFY_EMAIL_TOKEN_URL,
-} from "./io/hyperify/govm/core/constants/route";
+} from "./io/hyperify/govm/core/constants/backend";
 
 import { GoVmApp } from './io/hyperify/govm/frontend/components/goVmApp/GoVmApp';
 import './io/hyperify/govm/frontend/styles/govm-index.scss';
