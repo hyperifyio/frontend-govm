@@ -10,7 +10,9 @@ module.exports = function(app) {
         createProxyMiddleware({
             target: REACT_APP_BACKEND_TARGET_URL,
             changeOrigin: true,
+            ws: true,
             autoRewrite: true,
+            logLevel: 'debug',
             //protocolRewrite: 'http',
             // pathRewrite: {
             //     ['^/api'] : ''
