@@ -12,7 +12,7 @@ module.exports = function(app) {
             changeOrigin: true,
             ws: true,
             autoRewrite: true,
-            logLevel: 'debug',
+            // logLevel: 'debug',
             //protocolRewrite: 'http',
             // pathRewrite: {
             //     ['^/api'] : ''

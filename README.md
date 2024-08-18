@@ -1,6 +1,10 @@
 # frontend-govm
 
-# Fetching source code
+This is the ReactJS frontend for [GoVM](https://github.com/hyperifyio/project-govm/).
+
+For more information about the progress of the project, see [GoVM Project Management](https://github.com/hyperifyio/project-govm/issues/1).
+
+## Fetching source code
 
 ```bash
 git clone git@github.com:hyperifyio/frontend-govm.git frontend-govm
@@ -8,11 +12,11 @@ cd frontend-govm
 git submodule update --init --recursive
 ```
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
